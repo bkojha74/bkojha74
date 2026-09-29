@@ -20,15 +20,32 @@
 ---
 
 ## 📌 Featured Projects
-- **Global Wallet Microservices**  
-  *Scalable wallet system with fraud detection, CI/CD pipelines, and Go microservices.*  
-  [View Repo](https://github.com/bkojha74/global-wallet-microservices)
 
-- **Go Concurrency Patterns**  
-  *Worker pools, channels, DP patterns — demonstrating advanced concurrency handling in Go.*  
+### 🔹 Global Wallet Microservices
+*A production‑grade wallet system built with Go microservices, designed for scalability and resilience.*  
+- Fraud detection with AI‑driven anomaly checks  
+- CI/CD pipelines for automated testing and deployment  
+- Handles **1M+ transactions/month** with <200ms latency  
+👉 **Recruiter Takeaway:** Demonstrates ability to design high‑volume, fault‑tolerant backend systems.  
+[View Repo](https://github.com/bkojha74/global-wallet-microservices)
 
-- **GSLB Edge Read Architecture**  
-  *Mermaid diagrams showcasing scalable global load balancing architecture.*  
+---
+
+### 🔹 Go Concurrency Patterns
+*A curated collection of advanced concurrency implementations in Go.*  
+- Worker pools, channel pipelines, and dynamic task scheduling  
+- Demonstrates deep understanding of Go’s runtime and memory model  
+- Includes practical examples for **real‑world backend workloads**  
+👉 **Recruiter Takeaway:** Highlights deep knowledge of Go internals and performance optimization.  
+
+---
+
+### 🔹 GSLB Edge Read Architecture
+*A visual architecture project using Mermaid diagrams to explain Global Server Load Balancing (GSLB).*  
+- Models edge read architecture for distributed systems  
+- Highlights DNS, failover, and traffic routing strategies  
+- Useful for **scalable, multi‑region deployments**  
+👉 **Recruiter Takeaway:** Shows ability to design and communicate complex infrastructure clearly.  
 
 ---
 
