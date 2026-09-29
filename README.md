@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Bipin Kumar Ojha 👋
 
-<!--
-**bkojha74/bkojha74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Backend Architect | Go Concurrency | Distributed Systems | Cloud Security
 
-Here are some ideas to get you started:
+🔹 18+ years of experience in software development  
+🔹 Technical Lead & Backend Architect, actively applying for Senior Software Engineer roles  
+🔹 Specialized in **Go internals, concurrency patterns, distributed systems, and cloud infrastructure**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Go (Advanced), Python (Intermediate–Advanced)  
+- **Backend & Systems:** Distributed Systems, Microservices, GSLB Edge Read Architecture  
+- **Cloud & DevOps:** Kubernetes, Docker, Cloudflare, AWS CloudOps, Google Cloud  
+- **Security:** Infrastructure & Cloud Security Solutions  
+
+---
+
+## 📌 Featured Projects
+- **Global Wallet Microservices**  
+  *Scalable wallet system with fraud detection, CI/CD pipelines, and Go microservices.*  
+  [View Repo](https://github.com/bkojha74/global-wallet-microservices)
+
+- **Go Concurrency Patterns**  
+  *Worker pools, channels, DP patterns — demonstrating advanced concurrency handling in Go.*  
+
+- **GSLB Edge Read Architecture**  
+  *Mermaid diagrams showcasing scalable global load balancing architecture.*  
+
+---
+
+## 📈 Recent Highlights
+- 🏆 Earned **Cisco Networking Academy Badge**: *Introduction to Modern AI*  
+- 📊 Consistent GitHub activity — 100+ commits in September 2026  
+- 🔍 Published insights on **Profiling in Go** and runtime internals  
+
+---
+
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/bipin-ojha)  
+- [Medium](https://medium.com/@bkojha74)  
+- 📧 bkojha74@gmail.com  
+
+---
+
+💡 *Currently preparing for senior backend engineering roles — open to opportunities in distributed systems, cloud security, and Go-based infrastructure.*
