@@ -40,7 +40,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipin-ojha)  
+[![LinkedIn]](https://www.linkedin.com/in/bipin-kumar-ojha)  
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bkojha74)  
 📧 bkojha74@gmail.com  
 
